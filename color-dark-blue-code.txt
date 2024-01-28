@@ -1,0 +1,119 @@
+body {
+    background-color: #27374D !important;
+    height: 100%
+}
+
+.digihead {
+    font-family: bevan;
+    color: #9DB2BF;
+}
+
+.diginav {
+    font-family: robotslab;
+    font-size: 1.4rem;
+    color: #DDE6ED;
+}
+
+.checkbox {
+    position: relative;
+    top: 10px;
+}
+
+.digiheadsmall {
+    font-family: robotslab;
+    color: #DDE6ED !important;
+}
+
+.digiheadlink {
+    font-family: robotslab;
+    background-color: #526D82 !important;
+}
+
+.hero-boxhead {
+    color: #9DB2BF !important;
+}
+
+.hero-box{
+    font-family: robotoslab;
+    color: #DDE6ED;
+}
+
+.feature-text {
+    font-family: robotslab;
+    color: #9DB2BF
+}
+
+.feature-p {
+    font-family: robotslab;
+    color: #DDE6ED
+}
+
+.digifoot {
+    font-family: robotslab;
+    color: #DDE6ED
+}
+
+.what-title {
+    font-family: robotslab;
+    color: #9DB2BF;
+}
+
+.card {
+    background-color: #526D82 !important;
+    font-family: robotslab;
+    color: #DDE6ED
+    
+}
+
+.card-text {
+    font-family: robotslab;
+    color: #DDE6ED
+}
+
+.h3card {
+    font-family: robotslab;
+    color: #9DB2BF;
+}
+
+.btn {
+    background-color: #9DB2BF !important;
+    color: #27374D !important;
+    font-family: robotslab;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.what-lead {
+    color: #DDE6ED !important;
+    font-family: robotslab;
+}
+
+.digifeatp {
+    color: #DDE6ED !important;
+    font-family: robotslab;
+}
+
+.digifeath4 {
+    font-family: robotslab;
+    color: #9DB2BF;
+}
+
+.featbig {
+    font-family: robotslab;
+    color: #9DB2BF;
+}
+
+.featbig-p {
+    color: #DDE6ED !important;
+    font-family: robotslab;
+}
+
+.workh2 {
+    font-family: robotslab;
+    color: #9DB2BF;
+    font-size: 3rem
+}
